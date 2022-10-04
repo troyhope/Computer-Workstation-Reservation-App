@@ -10,8 +10,8 @@ I would probably have an alternative view, where the user can see the layout of 
 
 I might have a separate calendar view section showing the days and times the user has reserved workstations.
 
-2. -
-3. -
+2. Coding question (see src folder)
+3. Coding question (see src folder)
 
 ## REST API
 
